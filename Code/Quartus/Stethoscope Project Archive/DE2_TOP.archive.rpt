@@ -1,0 +1,161 @@
+Archive Project report for DE2_TOP
+Thu Dec 13 05:40:41 2012
+Quartus II Version 11.0 Build 208 07/03/2011 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2011 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Thu Dec 13 05:40:41 2012 ;
+; Revision Name          ; DE2_TOP                               ;
+; Top-level Entity Name  ; DE2_TOP                               ;
+; Family                 ; Cyclone II                            ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/Users/Michael/Desktop/quartus_projects/subversion/stethoscope_v3/stethoscope_project.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'DE2_TOP.archive.rpt'
+Info: Evaluation of Tcl script c:/altera/11.0sp1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 207 megabytes
+    Info: Processing ended: Thu Dec 13 05:40:42 2012
+    Info: Elapsed time: 00:00:09
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++----------------------------------------------------+
+; Files Archived                                     ;
++----------------------------------------------------+
+; File Name                                          ;
++----------------------------------------------------+
+; Alpha_Blender.v                                    ;
+; altera_up_audio_bit_counter.v                      ;
+; altera_up_audio_in_deserializer.v                  ;
+; altera_up_audio_out_serializer.v                   ;
+; altera_up_av_config_auto_init.v                    ;
+; altera_up_av_config_auto_init_ob_adv7181.v         ;
+; altera_up_av_config_auto_init_ob_audio.v           ;
+; altera_up_av_config_auto_init_ob_de2_35.v          ;
+; altera_up_av_config_serial_bus_controller.v        ;
+; altera_up_avalon_video_vga_timing.v                ;
+; altera_up_clock_edge.v                             ;
+; altera_up_slow_clock_generator.v                   ;
+; altera_up_sync_fifo.v                              ;
+; altera_up_video_128_character_rom.v                ;
+; altera_up_video_alpha_blender_simple.v             ;
+; altera_up_video_char_mode_rom_128.mif              ;
+; altera_up_video_scaler_multiply_height.v           ;
+; altera_up_video_scaler_multiply_width.v            ;
+; Audio.v                                            ;
+; AV_Config.v                                        ;
+; Char_Buffer_with_DMA.v                             ;
+; Clock_Signals.v                                    ;
+; CPU.sdc                                            ;
+; CPU_Audio.sdc                                      ;
+; CPU_Audio.v                                        ;
+; CPU_Audio_jtag_debug_module_sysclk.v               ;
+; CPU_Audio_jtag_debug_module_tck.v                  ;
+; CPU_Audio_jtag_debug_module_wrapper.v              ;
+; CPU_Audio_oci_test_bench.v                         ;
+; CPU_Audio_ociram_default_contents.mif              ;
+; CPU_Audio_rf_ram_a.mif                             ;
+; CPU_Audio_rf_ram_b.mif                             ;
+; CPU_Audio_test_bench.v                             ;
+; CPU_State.sdc                                      ;
+; CPU_State.v                                        ;
+; CPU_State_jtag_debug_module_sysclk.v               ;
+; CPU_State_jtag_debug_module_tck.v                  ;
+; CPU_State_jtag_debug_module_wrapper.v              ;
+; CPU_State_oci_test_bench.v                         ;
+; CPU_State_ociram_default_contents.mif              ;
+; CPU_State_rf_ram_a.mif                             ;
+; CPU_State_rf_ram_b.mif                             ;
+; CPU_State_test_bench.v                             ;
+; CPU_Video.sdc                                      ;
+; CPU_Video.v                                        ;
+; CPU_Video_jtag_debug_module_sysclk.v               ;
+; CPU_Video_jtag_debug_module_tck.v                  ;
+; CPU_Video_jtag_debug_module_wrapper.v              ;
+; CPU_Video_oci_test_bench.v                         ;
+; CPU_Video_ociram_default_contents.mif              ;
+; CPU_Video_rf_ram_a.mif                             ;
+; CPU_Video_rf_ram_b.mif                             ;
+; CPU_Video_test_bench.v                             ;
+; Data_Mutex.v                                       ;
+; DE2_TOP.qsf                                        ;
+; DE2_TOP.v                                          ;
+; DE2_TOP_assignment_defaults.qdf                    ;
+; Dual_Clock_FIFO.v                                  ;
+; Green_LEDs.v                                       ;
+; incremental_db/compiled_partitions/DE2_TOP.db_info ;
+; niosII_system.sopc                                 ;
+; niosII_system.v                                    ;
+; niosII_system_clock_0.v                            ;
+; Onchip_Memory_State.hex                            ;
+; Onchip_Memory_State.v                              ;
+; Onchip_Memory_Video.hex                            ;
+; Onchip_Memory_Video.v                              ;
+; Pixel_Buffer.v                                     ;
+; Pixel_Buffer_DMA.v                                 ;
+; Pixel_RGB_Resampler.v                              ;
+; Pixel_Scaler.v                                     ;
+; Pushbuttons.v                                      ;
+; Red_LEDs.v                                         ;
+; SDRAM_Controller.v                                 ;
+; Shared_Button.v                                    ;
+; Shared_Classification.v                            ;
+; Shared_Data.v                                      ;
+; Shared_Feature.v                                   ;
+; Shared_State.v                                     ;
+; Signal_Data_Ready.v                                ;
+; Signal_User_Input_Audio.v                          ;
+; Signal_User_Input_Video.v                          ;
+; State_Mutex_Audio.v                                ;
+; State_Mutex_Video.v                                ;
+; Switches.v                                         ;
+; template_project.qpf                               ;
+; VGA_Controller.v                                   ;
+; Wave_Data.hex                                      ;
+; Wave_Data.v                                        ;
++----------------------------------------------------+
+
+
